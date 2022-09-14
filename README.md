@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
   <br/>
 
-  ## Problem Solving :muscle: 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgns8234)](https://solved.ac/tkdgns8234)
   
   <br/>
