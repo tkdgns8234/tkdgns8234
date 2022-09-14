@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 
 
 <div align='center'>
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hoon`s%20GitHub&fontSize=80)
 
-### Welcome👋
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hoon`s%20GitHub&fontSize=70&animation=twinkling)
+
+  <br/>
+
+  ## Problem Solving :muscle: 
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgns8234)](https://solved.ac/tkdgns8234)
+  
+  <br/>
+  <br/>
+  
+  [![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdgns8234)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+</div>
