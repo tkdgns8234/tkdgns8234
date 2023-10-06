@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tkdgns8234/tkdgns8234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align='center'>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SANGHOONJUNG&fontSize=70&animation=twinkling)
+
+  
+  안녕하세요🤲 Android 개발자 정상훈입니다 :)
+  
+  <br/>
+  
+  # blog
+  https://tkdgns8234.tistory.com/
+  
+  <br/>
+  
+  ## 💪 Problom solving 💪
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgns8234)](https://solved.ac/tkdgns8234)
+  
+  <br/>
+  
+  ## 🌱 Stats 🌱
+  [![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdgns8234)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+</div>
