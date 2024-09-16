@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SANGHOONJUNG&fontSize=70&animation=twinkling)
 
   
-  안녕하세요🤲 Android 개발자 정상훈입니다 :)
+  안녕하세요🤲  개발자 정상훈입니다 :)
   
   <br/>
   
