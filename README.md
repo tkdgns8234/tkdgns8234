@@ -20,20 +20,29 @@ Here are some ideas to get you started:
 
   
   안녕하세요🤲  개발자 정상훈입니다 :)
-  
   <br/>
   
-  # blog
+  ##
+  <h3>Blog</h2>
   https://tkdgns8234.tistory.com/
-  
   <br/>
   
-  ## 💪 Problom solving 💪
+  ##
+  <h3>💪 Problom solving 💪<h3/>
+  [백준]
+  <br/>
+  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgns8234)](https://solved.ac/tkdgns8234)
   
   <br/>
+
+  [프로그래머스]
+  <br/>
+  <img width="1607" height="864" alt="image" src="https://github.com/user-attachments/assets/925214a4-24b4-4075-b7ce-bc38ef82c135" />
+  <br/>
   
-  ## 🌱 Stats 🌱
+  ##
+  <h3>🌱 Stats 🌱</h3>
   [![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdgns8234)](https://github.com/anuraghazra/github-readme-stats)
   
   
