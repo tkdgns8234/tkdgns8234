@@ -41,9 +41,4 @@ Here are some ideas to get you started:
   <img width="1607" height="864" alt="image" src="https://github.com/user-attachments/assets/925214a4-24b4-4075-b7ce-bc38ef82c135" />
   <br/>
   
-  ##
-  <h3>🌱 Stats 🌱</h3>
-  [![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdgns8234)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
 </div>
