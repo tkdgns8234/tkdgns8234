@@ -27,18 +27,4 @@ Here are some ideas to get you started:
   https://tkdgns8234.tistory.com/
   <br/>
   
-  ##
-  <h3>💪 Problom solving 💪<h3/>
-  [백준]
-  <br/>
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgns8234)](https://solved.ac/tkdgns8234)
-  
-  <br/>
-
-  [프로그래머스]
-  <br/>
-  <img width="1607" height="864" alt="image" src="https://github.com/user-attachments/assets/925214a4-24b4-4075-b7ce-bc38ef82c135" />
-  <br/>
-  
 </div>
